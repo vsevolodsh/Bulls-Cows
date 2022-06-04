@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/adaptive" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/alwaysencrypted" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/azureactivedirectoryauthentication" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/connections" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/constrained" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/dataclassification" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/datatypes" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/resultsets" />
+          <root url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus/samples/sparse" />
+        </SOURCES>
+        <jarDirectory url="file://C:/Program Files/jdbcMSQL/sqljdbc_9.4/rus" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
